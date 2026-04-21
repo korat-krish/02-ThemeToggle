@@ -1,0 +1,22 @@
+Project Name : Theme Toggle
+
+Goal : User can change theme of web page for a batter clearity 
+
+feature : change theme on toggle 
+
+flow : 
+    - user Click on toggle button
+    - then js check value of color 
+    - if color is dark then it turn into light 
+    - after change the color of UI 
+
+
+UI Plan : 
+
+    - product card
+
+Logic : 
+
+    - onclick event 
+    - check condition 
+    
