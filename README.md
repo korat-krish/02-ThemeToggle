@@ -46,8 +46,6 @@ To allow users to change the theme of a webpage for better clarity and comfort.
 
 ## ▶️ Run Locally
 
-1. Clone the repository  
-```bash
-git clone https://github.com/your-username/theme-toggle.git
+
 <img width="1919" height="893" alt="image" src="https://github.com/user-attachments/assets/bee6e8bb-690f-40d1-9596-8a8d873e513a" />
 <img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/47b6e937-fb84-495e-af52-fae0fa7884fc" />
